@@ -20,7 +20,7 @@ public class Day2P1 {
         }
         in.close();
 
-        /* PART 1
+        /* PART 1 :)
         for (Order o : orders)
         {
             if (o.getDirection().equals("forward"))
